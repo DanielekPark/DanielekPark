@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Exercise App](https://snack.expo.dev/@danielekpark/github.com-danielekpark-workoutapp)
 
+-🌱 I’m currently learning **Java**
+
 - 👨‍💻 All of my projects are available at [https://danielekpark.github.io/](https://danielekpark.github.io/)
 
 - 💬 Ask me about **HTML, CSS, and Javascript/React.**
