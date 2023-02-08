@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Park</h1>
 <h3 align="center">A web developer from Los Angeles, California.</h3>
 
-- 🔭 I’m currently working on [Exercise App](https://snack.expo.dev/@danielekpark/github.com-danielekpark-workoutapp)
+- 🔭 I’m currently working on a Patient managment system
 
 -🌱 I’m currently learning **Java**
 
