@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Park</h1>
-<h3 align="center">A frontend web developer from Los Angeles, California.</h3>
+<h3 align="center">A web developer from Los Angeles, California.</h3>
 
 - 🔭 I’m currently working on [Exercise App](https://snack.expo.dev/@danielekpark/github.com-danielekpark-workoutapp)
 
