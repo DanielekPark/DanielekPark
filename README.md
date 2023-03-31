@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Patient managment system
 
-- 🌱 I’m currently learning **SEO**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://danielekpark.github.io/](https://danielekpark.github.io/)
 
