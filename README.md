@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Park</h1>
 <h3 align="center">A web developer from Los Angeles, California.</h3>
 
-- 🔭 I’m currently working on a Patient managment system
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://danielekpark.github.io/](https://danielekpark.github.io/)
