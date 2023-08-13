@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **project management**
 
-- 👨‍💻 All of my projects are available at [https://danielekpark.github.io/](https://danielekpark.github.io/)
-
 - 💬 Ask me about **HTML, CSS, SQL, and Javascript/React.**
 
 - 📫 How to reach me **daniel.ek.park@gmail.com**
