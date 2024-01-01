@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Park</h1>
 <h3 align="center">A web developer from Los Angeles, California.</h3>
 
-- 🌱 I’m currently learning **project management**
+- 🌱 I’m currently learning **Golang/Go**
 
 - 💬 Ask me about **HTML, CSS, SQL, and Javascript/React.**
 
